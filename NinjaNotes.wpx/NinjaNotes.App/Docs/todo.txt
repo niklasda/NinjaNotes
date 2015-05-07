@@ -1,0 +1,33 @@
+﻿
+now
+--------------
+
+dialog colors are wierd
+
+add last modified
+
+move edited items to top
+move new items to top
+
+show items by date reverse
+
+delete note
+about
+settings????
+
+
+middle
+-----------
+LiveTile
+
+
+future
+---------------
+attach picture, one or more?
+save to skydrive
+
+
+done
+------
+add note :)
+alltid add note
