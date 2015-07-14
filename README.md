@@ -1,2 +1,2 @@
 # NinjaNotes
-Very simplistic note-taking app
+Very simplistic note-taking app (wp8)
